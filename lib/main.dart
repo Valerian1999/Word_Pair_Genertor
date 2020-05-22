@@ -7,7 +7,7 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Starup name generator',
+      title: 'Starup name generator flutter',
       theme: ThemeData(
         primaryColor: Colors.white,
       ),
