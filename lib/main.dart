@@ -9,7 +9,7 @@ class MyApp extends StatelessWidget {
     return MaterialApp(
       title: 'Starup name generator flutter',
       theme: ThemeData(
-        primaryColor: Colors.white,
+        primaryColor: Colors.grey,
       ),
       home: RandomWords(),
     );
